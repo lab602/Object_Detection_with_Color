@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+c:\users\xps\desktop\consoleapplication2\consoleapplication2\consoleapplication2.cpp(78): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\xps\desktop\consoleapplication2\consoleapplication2\consoleapplication2.cpp(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\XPS\Desktop\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
